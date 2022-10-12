@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "АП_РІ-11_Головата_ЛР_03_2", "АП_РІ-11_Головата_ЛР_03_2\АП_РІ-11_Головата_ЛР_03_2.vcxproj", "{269285E9-1B9B-482D-89FE-6B7192F50C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Debug|x64.ActiveCfg = Debug|x64
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Debug|x64.Build.0 = Debug|x64
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Debug|x86.Build.0 = Debug|Win32
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Release|x64.ActiveCfg = Release|x64
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Release|x64.Build.0 = Release|x64
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Release|x86.ActiveCfg = Release|Win32
+		{269285E9-1B9B-482D-89FE-6B7192F50C8D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53B237B-E90A-45D5-AC4B-D303A08BFCC7}
+	EndGlobalSection
+EndGlobal
